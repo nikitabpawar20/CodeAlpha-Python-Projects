@@ -1,4 +1,4 @@
-# 🐍 CodeAlpha Python Programming Internship Projects
+# CodeAlpha Python Programming Internship Projects
 
 This repository contains Python projects developed during my **CodeAlpha Python Programming Internship**. The projects focus on Python programming fundamentals, problem-solving, GUI development, file handling, and logical implementation.
 
