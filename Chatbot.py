@@ -1,4 +1,4 @@
-import tkinter as tk          # GUI library (built-in)
+import tkinter as tk          # GUI library
 from tkinter import scrolledtext  # Scrollable text widget
 from datetime import datetime  # For timestamps, time, and date
 
@@ -19,7 +19,7 @@ def get_bot_response(user_input):
         str: The chatbot's response.
     """
 
-    # Convert to lowercase so "Hello", "HELLO", "hello" all match
+    # Convert to lowercase
     message = user_input.lower().strip()
 
     # ── Greetings ──────────────────────────────────────────
